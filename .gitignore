@@ -1,0 +1,24 @@
+# Misc
+*~
+~*
+*.tmp
+*.orig
+*.bak
+*.log
+*.DS_STORE
+/tmp
+
+# Dependencies
+/node_modules
+
+# Compiled files
+/dist
+/lib
+
+# Packaging artifacts
+/react-quill-*.tgz
+/package
+
+# Test artifacts
+.cypress/screenshots
+.cypress/videos
